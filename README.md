@@ -6,7 +6,7 @@ pkg install python3
 
 git clone https://github.com/duykhangdangzn1/BlumCum.git
 
-cd blumv2
+cd BlumCum
 
 pip install -r requirements.txt
 
