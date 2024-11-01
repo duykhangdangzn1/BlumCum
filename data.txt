@@ -1,0 +1,1 @@
+query_id=AAGvp-MYAwAAAK-n4xgcNMbH&user=%7B%22id%22%3A6860023727%2C%22first_name%22%3A%22Kkk.m%22%2C%22last_name%22%3A%22Kknkjhhj%22%2C%22username%22%3A%22Nkahnh%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730441352&hash=de3f781ea0d4ed8089b664ca0a6b69d01aad770767f28a53dac77f66699efeb8
