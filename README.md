@@ -4,7 +4,7 @@ pkg install nano
 
 pkg install python3
 
-git clone https://github.com/ashtrobe/blumv2
+git clone https://github.com/duykhangdangzn1/BlumCum.git
 
 cd blumv2
 
